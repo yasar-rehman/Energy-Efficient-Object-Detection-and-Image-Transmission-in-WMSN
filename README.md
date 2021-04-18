@@ -1,8 +1,8 @@
 # Energy-Efficient-Object-Detection-and-Image-Transmission-in-WMSN
 <p align="center">
 <div class="row">
-  <div class="col-md-3"> <div><img src="./Network-topology.jpg" width="40%" style="width:50%;"></div> </div>
-  <div class="col-md-3"><div> <img src="./Network_model1.jpg" width="40%" style="width:50%;"></div> </div></div>
+  <div class="col-md-3"> <div><img src="./Network-topology.jpg" width="25%" style="width:50%;"></div> </div>
+  <div class="col-md-3"><div> <img src="./Network_model1.jpg" width="25%" style="width:50%;"></div> </div></div>
   </p>
  <div class="row">
   <div class="col-md-3"><div> <img src="./result1.jpg" width="100%" style="width:100%;"></div> </div>

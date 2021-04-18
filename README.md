@@ -1,7 +1,7 @@
 # Energy-Efficient-Object-Detection-and-Image-Transmission-in-WMSN
 <p><img src="./Network-topology.jpg" width="25%" style="max-width:25%;">
 <img src="./3-Figure1-1.png" width="25%" style="max-width:25%;"> </p>
-<p> <img src="./3-Figure3-1.png" width="25%" style="max-width:25%;">
+<p>
 <img src="./6-Figure13-1.png" width="25%" style="max-width:25%;">
 </p>
 <p align="center"> 

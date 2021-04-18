@@ -6,7 +6,7 @@
      <td> <img src="./Network_model1.jpg" width="100%"> </td>
    </tr>
   <tr>
-  <td><img src="./result1.jpg" width="100%"> </td>
+  <td colspan="2"><img src="./result1.jpg" width="100%"> </td>
     <tr>
      </table>
  

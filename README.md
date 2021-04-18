@@ -15,6 +15,6 @@
 
 <hr>
 <h2> Citation </h2>
-<p> If you are using this code or any part of the publication, please consider to cite: <br>
- Rehman, Y.A.U., Tariq, M. and Sato, T., 2016. A novel energy efficient object detection and image transmission approach for wireless multimedia sensor networks. IEEE sensors journal, 16(15), pp.5942-5949.
+<p> If you are using this code or any part of the publication, please consider to cite</p>
+<p>  Rehman, Y.A.U., Tariq, M. and Sato, T., 2016. A novel energy efficient object detection and image transmission approach for wireless multimedia sensor networks. IEEE sensors journal, 16(15), pp.5942-5949.  </p>
 </p>

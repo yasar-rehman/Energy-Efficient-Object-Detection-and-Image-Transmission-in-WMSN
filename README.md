@@ -1,9 +1,11 @@
 # Energy-Efficient-Object-Detection-and-Image-Transmission-in-WMSN
+<p>
 <div class="row">
-  <div class="col-md-3"> <div><img src="./Network-topology.jpg" alt="" style="width:120px;height:120px;"></div> </div>
-  <div class="col-md-3"><div> <img src="./Network_model1.jpg" alt="" style="width:240px;height:240px;"></div> </div>
-  <div class="col-md-3"><div> <img src="./result1.jpg" alt="" style="width:240px;height:240px;"></div> </div>
+  <div class="col-md-3"> <div><img src="./Network-topology.jpg" alt="" style="width:25%;"></div> </div>
+  <div class="col-md-3"><div> <img src="./Network_model1.jpg" alt="" style="width:25%;"></div> </div>
+  <div class="col-md-3"><div> <img src="./result1.jpg" alt="" style="width:25%;"></div> </div>
   </div>
+  </p>
 <p align="center"> 
   <a href ="https://ieeexplore.ieee.org/abstract/document/7482640"> Paper</a> | 
   <a href="https://www.researchgate.net/publication/303770986_A_Novel_Energy_Efficient_Object_Detection_and_Image_Transmission_Approach_for_Wireless_Multimedia_Sensor_Networks"> Preprint </a>

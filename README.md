@@ -1,4 +1,4 @@
-<p align="center"> <h1> Energy-Efficient-Object-Detection-and-Image-Transmission-in-WMSN <h1> </p>
+<p align="center"> <h>Energy-Efficient-Object-Detection-and-Image-Transmission-in-WMSN<h> </p>
 
 <table>
   <tr>

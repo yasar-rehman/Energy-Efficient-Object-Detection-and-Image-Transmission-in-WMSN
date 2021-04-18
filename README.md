@@ -1,6 +1,4 @@
-#                                                                  Energy-Efficient-Object-Detection-and-Image-Transmission-in-WMSN
-//<p align="center"> <h2>  </h2> 
-//</p>
+<p align="center"> # Energy-Efficient-Object-Detection-and-Image-Transmission-in-WMSN  </p>
 
 <table>
   <tr>

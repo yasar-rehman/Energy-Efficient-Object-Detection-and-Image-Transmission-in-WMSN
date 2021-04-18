@@ -21,5 +21,5 @@
 <hr>
 
 <h2> Contact </h2>
-<p> This project is currently mantained by Yasar Abbas Ur Rehman <a href="https://github.com/yasar-rehman"> @yasar-rehman</p>
-<p> If you have any questions, feel free to contact at yasir.abbas42@gmail.com
+<p> This project is currently mantained by Yasar Abbas Ur Rehman <a href="https://github.com/yasar-rehman"> @yasar-rehman </a></p>
+<p> If you have any questions, feel free to contact at <code>yasir.abbas42@gmail.com</code> </p>

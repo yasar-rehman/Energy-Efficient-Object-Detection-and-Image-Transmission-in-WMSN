@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-     <td> <img src="./Network-topology.jpg" width=270 height=480> </td>  
-     <td> <img src="./Network_model1.jpg" width=270 height=480> </td>
+     <td> <img src="./Network-topology.jpg" width="100%"> </td>  
+     <td> <img src="./Network_model1.jpg" width="100%"> </td>
    </tr>
   <tr>
   <td><img src="./result1.jpg" width="100%"> </td>

@@ -1,4 +1,4 @@
-<h1 align="Center">Energy-Efficient-Object-Detection-and-Image-Transmission-in-WMSN<h1>
+# Energy-Efficient-Object-Detection-and-Image-Transmission-in-WMSN
 <p align="center"> 
   <a href ="https://ieeexplore.ieee.org/abstract/document/7482640"> Paper</a> | 
   <a href="https://www.researchgate.net/publication/303770986_A_Novel_Energy_Efficient_Object_Detection_and_Image_Transmission_Approach_for_Wireless_Multimedia_Sensor_Networks"> Preprint </a>

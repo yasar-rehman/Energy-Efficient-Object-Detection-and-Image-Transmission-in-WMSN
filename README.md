@@ -12,7 +12,9 @@
 <ul>
   <li>[April 18, 2021] Created a repository for the paper</li>
   </ul>
-
+<hr>
+<h2> Collaborations </h2>
+<p>Collaborations are welcomed </p>
 <hr>
 <h2> Citation </h2>
 <p> If you are using this code or any part of the publication, please consider to cite</p>

@@ -6,7 +6,8 @@
 <div align="center">
   This is the official repository of our paper <b>A Novel Energy Efficient Object Detection and Image Transmission Approach for Wireless Multimedia Sensor Networks</b> 
 </div>
-
+<p align="justify"> The present code is written in MATLAB version (2011). In future, the code will be converted to python for inter-platform compatibility.
+  <p>
 <hr>
 <h2> News> </h2>
 <ul>

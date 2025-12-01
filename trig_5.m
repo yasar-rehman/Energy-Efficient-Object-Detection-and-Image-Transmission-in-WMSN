@@ -8,8 +8,8 @@ clc
  set(0,'DefaultFigureWindowStyle','docked');
 % set(0,'InitialMagnification','fit');
 % 
-rmpath 'E:\personal\Research files\MS Research Work\paper1\scenario4\video data set\winterDriveway\input'
-path(path,'E:\personal\Research files\MS Research Work\paper1\scenario4\video data set\pedestrians\input');
+
+path(path,'\scenario4\video data set\pedestrians\input');
 %--------------------------------------------------------------------------
 count_detect=0;
 count_undetect=0;

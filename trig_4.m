@@ -7,8 +7,8 @@ clear all
 clc
  set(0,'DefaultFigureWindowStyle','docked');
 % set(0,'InitialMagnification','fit');
- path(path,'e:\personal\Research files\MS Research Work\paper1\scenario4\video data set\winterDriveway\input');
-% path(path,'E:\personal\Research files\MS Research Work\paper1\scenario4\video data set\parking\input');
+ path(path,'\scenario4\video data set\winterDriveway\input');
+
 %--------------------------------------------------------------------------
 count_detect=0;
 count_undetect=0;
